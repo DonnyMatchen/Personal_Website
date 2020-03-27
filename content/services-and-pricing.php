@@ -11,13 +11,13 @@
     </tr>
     <tr>
         <td class="centerCell">Custom PC</td>
-        <td>We will build a custom PC to your specifications and with parts you approve. (see note 1)</td>
+        <td>We will build a custom PC to your specifications and with parts you approve.<br>(see note 1)</td>
         <td>For parts totaling less than $500.00</td>
         <td class="centerCell">parts + m₿15</td>
     </tr>
     <tr>
         <td class="centerCell">Custom PC</td>
-        <td>We will build a custom PC to your specifications and with parts you approve. (see note 1)</td>
+        <td>We will build a custom PC to your specifications and with parts you approve.<br>(see note 1)</td>
         <td>For parts totaling greater than $500.00</td>
         <td class="centerCell">parts + 20%</td>
     </tr>
