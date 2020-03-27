@@ -1,0 +1,29 @@
+body {
+    background-color: #00ff00;
+    background-image: linear-gradient(to bottom right, #00ff00,#0000ff);
+}
+.wrap {
+    max-width: 720px;
+    margin: 50px auto;
+    padding: 30px 40px;
+    text-align: center;
+    box-shadow: 0 4px 25px -4px #404040;
+}
+article {
+    padding: 40px;
+    line-height: 150%;
+    text-align: left;
+}
+
+nav .item {
+    text-decoration: none;
+}
+nav .active {
+    border-bottom: 1px solid;
+}
+.image-full {
+    width:100%;
+}
+#image-header {
+    vertical-align:middle;
+}
