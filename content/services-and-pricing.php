@@ -4,52 +4,52 @@
 <p>We accept USD (cash only), USDC, BTC, BTH, ETH, ETC, LTC, XMR, XRP, and ZEC.  For others, ask.</p>
 <table border="1" style="width:100%">
     <tr>
-        <th>Service</th>
-        <th>Description</th>
-        <th>Notes</th>
-        <th>Pricing</th>
+        <th class="centerCell">Service</th>
+        <th class="centerCell">Description</th>
+        <th class="centerCell">Notes</th>
+        <th class="centerCell">Pricing</th>
     </tr>
     <tr>
-        <td>Custom PC</td>
+        <td class="centerCell">Custom PC</td>
         <td>We will build a custom PC to your specifications and with parts you approve. (see note 1)</td>
         <td>For parts totaling less than $500.00</td>
-        <td>parts + m₿15</td>
+        <td class="centerCell">parts + m₿15</td>
     </tr>
     <tr>
-        <td>Custom PC</td>
+        <td class="centerCell">Custom PC</td>
         <td>We will build a custom PC to your specifications and with parts you approve. (see note 1)</td>
         <td>For parts totaling greater than $500.00</td>
-        <td>parts + 20%</td>
+        <td class="centerCell">parts + 20%</td>
     </tr>
     <tr>
-        <td>PC part selection</td>
+        <td class="centerCell">PC Part Selection</td>
         <td>We will help you pick out parts for custom PC you want to build</td>
         <td></td>
-        <td>simple m₿5<br>complicated m₿15</td>
+        <td class="centerCell">simple: m₿5<br>complex: m₿15</td>
     </tr>
     <tr>
-        <td>OS Selection</td>
+        <td class="centerCell">OS Selection</td>
         <td>We will help you pick The best opporating system for your needs.</td>
         <td></td>
-        <td>m₿3</td>
+        <td class="centerCell">m₿3</td>
     </tr>
     <tr>
-        <td>Data Recovery</td>
+        <td class="centerCell">Data Recovery</td>
         <td>We will collect any existing data from a computer hard drive.</td>
         <td>safe destruction of disk available for an additional m₿5</td>
-        <td>m₿0.75 base fee (see note 2)</td>
+        <td class="centerCell">m₿0.75 base fee<br>(see note 2)</td>
     </tr>
     <tr>
-        <td>Computer Selection</td>
+        <td class="centerCell">Computer Selection</td>
         <td>We will help you pick the computer systems that are the best fit for your company and its needs.</td>
         <td>Small business</td>
-        <td>m₿3 + m₿0.5 per person (see note 3)</td>
+        <td class="centerCell">m₿3 + m₿0.5/p<br>(see note 3)</td>
     </tr>
 </table>
 
 <p><b>Note 1</b><br>
-We purchase computer components—for the most part—from <a href="https://newegg.com">Newegg</a>.  Parts totals include sales tax.  
-    We do not work with custom liquid cooling systems nor parts from certain maufacturers.<br>
+We purchase computer components—for the most part—from <a href="https://newegg.com">Newegg</a>.  Parts totals include sales tax. 
+We do not work with custom liquid cooling systems nor parts from certain maufacturers.<br>
 Software installation and setup is also available for an additional fee.<br>
 Bootable flashdrives available for an additional fee.
 </p>
