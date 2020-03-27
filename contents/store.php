@@ -1,0 +1,1 @@
+All prices are in μ₿ (micro-bitcoin).  1 BTC = μ₿1,000,000 ≈ $6700.00 (μ₿1 ≈ $0.0067 ≈ 2/3¢)
