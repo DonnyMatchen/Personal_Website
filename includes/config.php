@@ -13,7 +13,6 @@ function config($key = '') {
         'nav_menu' => [
             '' => 'Home',
             'services-and-pricing' => 'Services and Pricing',
-            'cryptocurrency-wallet-addresses' => 'Cryptocurrency Wallet Addresses',
             'Contact-information' => 'Contact Information'
         ],
         'template_path' => 'template',
