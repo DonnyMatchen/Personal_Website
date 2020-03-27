@@ -22,10 +22,28 @@
         <td>parts + 20%</td>
     </tr>
     <tr>
+        <td>PC part selection</td>
+        <td>We will help you pick out parts for custom PC you want to build</td>
+        <td></td>
+        <td>simple m₿5<br>complicated m₿15</td>
+    </tr>
+    <tr>
+        <td>OS Selection</td>
+        <td>We will help you pick The best opporating system for your needs.</td>
+        <td></td>
+        <td>m₿3</td>
+    </tr>
+    <tr>
         <td>Data Recovery</td>
         <td>We will collect any existing data from a computer hard drive.</td>
         <td>safe destruction of disk available for an additional m₿5</td>
         <td>m₿0.75 base fee (see note 2)</td>
+    </tr>
+    <tr>
+        <td>Computer Selection</td>
+        <td>We will help you pick the computer systems that are the best fit for your company and its needs.</td>
+        <td>Small business</td>
+        <td>m₿3 + m₿0.5 per person (see note 3)</td>
     </tr>
 </table>
 
@@ -46,4 +64,8 @@ Data will be delivered to you on a flash drive or USB external hard drive, so mo
 <br>
 We will give you a quote or tell you the disk is broken at a hardware level after an initial examination.  It is then up to you to decide if my price and time estimate are worth it to you.  
 If the disk is broken at a hardware level, though I cannot recover data, data may still be recoverable by a forensic specialist.
+</p>
+<p><b>Note 3</b><br>
+Our price for helping you select the right computer systems for your business are m₿3 and m₿0.5 for every person you are looking to buy computers for.  
+For example, if you are buying computers for a department of 10 people, we will charge m₿8.
 </p>
