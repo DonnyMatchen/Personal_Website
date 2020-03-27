@@ -7,7 +7,7 @@
  */
 function config($key = '') {
     $config = [
-        'name' => 'Donny Matchen',
+        'name' => 'Donny Industries LLC',
         'pretty_uri' => false,
         'site_url' => 'https://donnymatchen.herokuapp.com',
         'nav_menu' => [
