@@ -23,3 +23,7 @@ nav .active {
 #image-header {
     vertical-align:middle;
 }
+
+table{
+    border: 1em #404040;
+}

@@ -13,7 +13,7 @@ function config($key = '') {
         'nav_menu' => [
             '' => 'Home',
             'services-and-pricing' => 'Services and Pricing',
-            'Contact-information' => 'Contact Information'
+            'contact-information' => 'Contact Information'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
