@@ -9,7 +9,7 @@
 <div class="wrap">
 
     <header>
-        <h1><img height="50%" id="image-header" src="assets/Logo.png"> <?php site_name(); ?></h1>
+        <h1><img height="64" id="image-header" src="assets/Logo.png"> <?php site_name(); ?></h1>
         <nav class="menu">
             <?php nav_menu(); ?>
         </nav>
