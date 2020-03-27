@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td class="centerCell">OS Selection</td>
-        <td>We will help you pick The best opporating system for your needs.</td>
+        <td>We will help you pick The best operating system for your needs.</td>
         <td></td>
         <td class="centerCell">m₿3</td>
     </tr>
@@ -48,24 +48,24 @@
 </table>
 
 <p><b>Note 1</b><br>
-We purchase computer components—for the most part—from <a href="https://newegg.com">Newegg</a>.  Parts totals include sales tax. 
-We do not work with custom liquid cooling systems nor parts from certain maufacturers.<br>
+We purchase computer components—for the most part—from <a href="https://newegg.com">Newegg</a>.  Parts totals include shipping and sales tax. 
+We do not work with custom liquid cooling systems nor parts from certain manufacturers.<br>
 Software installation and setup is also available for an additional fee.<br>
 Bootable flashdrives available for an additional fee.
 </p>
 <p><b>Note 2</b><br>
-The price for data recovery is affected by few different difficulty factors.<br>
+The price for data recovery is affected by a few different difficulty factors.<br>
 The m₿0.75 fee is for examination of the hard drive and prognosis.<br>
-If the oporating system is hosed, then We need to use forensics tools, adding time and complexity.<br>
-If the filesystem is hosed, then all recovered files are carved—meaning they lack a file name or file path.<br>
-If the computer is a laptop, extracting the hard drive requires more effort.<br>
-If the hard drive uses PATA or SCSI, We may need to purchase additional equipment.  (only very old computers)<br>
+If the operating system is hosed, we need to use forensics tools, adding time and complexity.<br>
+If the filesystem is hosed, all recovered files are will be carved—meaning they lack a file name or file path.<br>
+If the computer is a laptop, extracting the hard drive is trickier.<br>
+If the hard drive uses PATA or SCSI, We may need to purchase additional equipment.  (only very old computers still have PATA and SCSI)<br>
 Data will be delivered to you on a flash drive or USB external hard drive, so more than 8 GB of recovered material could get increasingly expensive.<br>
 <br>
-We will give you a quote or tell you the disk is broken at a hardware level after an initial examination.  It is then up to you to decide if my price and time estimate are worth it to you.  
-If the disk is broken at a hardware level, though I cannot recover data, data may still be recoverable by a forensic specialist.
+We will give you a quote or tell you the disk is broken at a hardware level after the initial examination.  
+If the disk is broken at a hardware level, though we cannot recover data, data may still be recoverable by a forensic specialist.
 </p>
 <p><b>Note 3</b><br>
-Our price for helping you select the right computer systems for your business are m₿3 and m₿0.5 for every person you are looking to buy computers for.  
-For example, if you are buying computers for a department of 10 people, we will charge m₿8.
+Our price for helping you select the right computer systems for your business is a m₿3 base price and m₿0.5 per computer user.  
+For example, if you are buying computers for a department of 10 people, we will charge m₿8 (m₿3 + 10 × m₿0.5).
 </p>
