@@ -9,7 +9,7 @@
 <div class="wrap">
 
     <header>
-        <h1><img height="36" id="image-header" src="assets/Logo.png"> <?php site_name(); ?></h1>
+        <h1><img id="image-header" src="assets/Logo.png"> <?php site_name(); ?></h1>
         <nav class="menu">
             <?php nav_menu(); ?>
         </nav>
@@ -21,7 +21,7 @@
     </article>
 
     <footer>
-        <small>&copy;<?php echo date('Y'); ?> Donny Matchen.<br><?php site_version(); ?></small>
+        <small>&copy;<?php echo date('Y'); ?> Donny Matchen.</small>
     </footer>
 </div>
 </body>

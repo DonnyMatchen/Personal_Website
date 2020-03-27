@@ -1,6 +1,5 @@
 body {
-    background-color: #00ff00;
-    background-image: linear-gradient(to bottom right, #00ff00,#0000ff);
+    background-color: #13af46;
 }
 .wrap {
     max-width: 720px;
@@ -21,9 +20,7 @@ nav .item {
 nav .active {
     border-bottom: 1px solid;
 }
-.image-full {
-    width:100%;
-}
 #image-header {
     vertical-align:middle;
+    height: 100%;
 }

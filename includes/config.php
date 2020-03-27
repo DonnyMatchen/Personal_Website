@@ -12,9 +12,9 @@ function config($key = '') {
         'site_url' => 'https://donnymatchen.herokuapp.com',
         'nav_menu' => [
             '' => 'Home',
-            'store' => 'Services and Pricing',
-            'crypto' => 'Cryptocurrency Wallet Addresses',
-            'contact' => 'Contact Information'
+            'services-and-pricing' => 'Services and Pricing',
+            'cryptocurrency-wallet-addresses' => 'Cryptocurrency Wallet Addresses',
+            'Contact-information' => 'Contact Information'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
