@@ -1,7 +1,7 @@
 <p>ALWAYS WAIT FOR US TO ASK YOU TO SEND PAYMENT!</p>
-<p>All prices are in m₿ (mili-bitcoin).  1 BTC = m₿1,000 ≈ $6,700.00 (m₿3 ≈ $20.00)</p>
+<p>All prices are in m₿ (mili-bitcoin).  1 BTC = m₿1,000 ≈ $6,250.00 (m₿1 ≈ $6.25)</p>
 <p>Exchange rates are taken from <a href="https://bitinfocharts.com/cryptocurrency-prices/">here</a> as of time of quote.</p>
-<p>We accept USD (cash only), USDC, BTC, BTH, ETH, ETC, LTC, XMR, XRP, and ZEC.  For others, ask.</p>
+<p>We accept USD (cash only), USDC, BTC, ETH, LTC, XMR, XRP, ZEC, DASH, EOS, XTZ, BAT, BCH, ETC, and REP.  For others, ask.</p>
 <table border="1" style="width:100%">
     <tr>
         <th class="centerCell">Service</th>
