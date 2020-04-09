@@ -1,7 +1,10 @@
 <p>ALWAYS WAIT FOR US TO ASK YOU TO SEND PAYMENT!</p>
-<p>All prices are in m₿ (mili-bitcoin).  1 BTC = m₿1,000 ≈ $6,250.00 (m₿1 ≈ $6.25)</p>
+<p>All prices are in m₿ (mili-bitcoin).  1 BTC = m₿1,000 ≈ $7,270.00 (m₿1 ≈ $7.27)</p>
 <p>Exchange rates are taken from <a href="https://bitinfocharts.com/cryptocurrency-prices/">here</a> as of time of quote.</p>
-<p>We accept USD (cash only), USDC, BTC, ETH, LTC, XMR, XRP, ZEC, DASH, EOS, XTZ, BAT, BCH, ETC, and REP.  For others, ask.</p>
+<p>For transaction fee corrections, see the second table bellow.</p>
+<p>We accept US Dollar Coin (USDC), Bitcoin (BTC/XBT), Ethereum (ETH), Litecoin (LTC), Monero (XMR)), Ripple (XRP), Zcash (ZEC), DASH, EOS, Tezos (XTZ), 
+Basic Attention Token (BAT), Bitcoin Cash (BCH), Ethereum Classic (ETC), Augur (REP), Ravencoin (RVN), Tron (TRX), Cosmos (ATOM), and DAI.  For others, ask.  
+We do accept cash in person, USD only</p>
 <table border="1" style="width:100%">
     <tr>
         <th class="centerCell">Service</th>
@@ -69,3 +72,82 @@ If the disk is broken at a hardware level, though we cannot recover data, data m
 Our price for helping you select the right computer systems for your business is a m₿3 base price and m₿0.5 per computer user.  
 For example, if you are buying computers for a department of 10 people, we will charge m₿8 (m₿3 + 10 × m₿0.5).
 </p>
+
+<table border="1" style="width:100%">
+    <tr>
+        <th class="centerCell">Currency</th>
+        <th class="centerCell">Transaction Fee Correction</th>
+    </tr>
+    <tr>
+        <td class="centerCell">USDC</td>
+        <td class="centerCell">$0.00000</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Bitcoin</td>
+        <td class="centerCell">m₿0.10</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Ethereum</td>
+        <td class="centerCell">Ξ0.00082</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Litecoin</td>
+        <td class="centerCell">Ł0.00050</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Monero</td>
+        <td class="centerCell">ɱ0.00050</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Ripple</td>
+        <td class="centerCell">Ʀ0.00430</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Zcash</td>
+        <td class="centerCell">Ƶ0.00068</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Dash</td>
+        <td class="centerCell">Ð0.00010</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Eos</td>
+        <td class="centerCell">Ȅ0.36900</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Tezos</td>
+        <td class="centerCell">ꜩ0.47000</td>
+    </tr>
+    <tr>
+        <td class="centerCell">BAT</td>
+        <td class="centerCell">⟁5.76</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Bitcoin Cash</td>
+        <td class="centerCell">฿0.00001</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Ethereum Classic</td>
+        <td class="centerCell">ξ0.00029</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Augur</td>
+        <td class="centerCell">Ɍ0.07900</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Ravencoin</td>
+        <td class="centerCell">𐍂55.25</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Tron</td>
+        <td class="centerCell">Ť74.85</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Cosmos</td>
+        <td class="centerCell">⚛0.387</td>
+    </tr>
+    <tr>
+        <td class="centerCell">Dai</td>
+        <td class="centerCell">⬙0.975</td>
+    </tr>
+</table>
